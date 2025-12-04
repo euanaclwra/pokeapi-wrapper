@@ -1,5 +1,7 @@
 {
-    "name": "p2s/pokeapi-wrapper",
+    "name": "anaclrdev/pokeapi-wrapper",
+    "description": "Wrapper em PHP para a PokéAPI",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "PokeAPI\\": "src/"
