@@ -1,0 +1,15 @@
+{
+    "name": "p2s/pokeapi-wrapper",
+    "autoload": {
+        "psr-4": {
+            "PokeAPI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Clara",
+            "email": "anaclrdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
